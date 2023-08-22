@@ -1,4 +1,4 @@
-# Boilerplate and Starter for Next JS 12+, Tailwind CSS 3 and TypeScript [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
+# Boilerplate and Starter for Next JS 12+, Tailwind CSS 3 and TypeScript
 
 <p align="center">
   <a href="https://creativedesignsguru.com/demo/Nextjs-Boilerplate/"><img src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Next js starter banner"></a>
@@ -126,13 +126,13 @@ Now, your blog is ready to be deployed. All generated files are located at `out`
 
 Clone this repository on own GitHub account and deploy to Netlify:
 
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ixartz/Next-js-Boilerplate)
+[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/shinydev1992/rhapsody-blockchain)
 
 ### Deploy to Vercel
 
 Deploy this Next JS Boilerplate on Vercel in one click:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fixartz%2FNext-js-Boilerplate)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fshinydev1992%2Frhapsody-blockchain)
 
 ### VSCode information (optional)
 
@@ -149,9 +149,3 @@ Everyone is welcome to contribute to this project. Feel free to open an issue if
 Licensed under the MIT License, Copyright © 2020
 
 See [LICENSE](LICENSE) for more information.
-
----
-
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
-
-[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://www.buymeacoffee.com/ixartz)
